@@ -5,4 +5,6 @@
     This is a demo of Incremental Stale Revalidation (ISR) without a
     <code>max-age</code>
   </p>
+
+  <blockquote>Rendered at {{ new Date().toLocaleString() }}</blockquote>
 </template>
