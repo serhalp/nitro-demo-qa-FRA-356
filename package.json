@@ -15,6 +15,7 @@
     "vue-router": "^4.3.0"
   },
   "devDependencies": {
+    "@netlify/edge-functions": "^2.8.0",
     "@netlify/functions": "^2.7.0"
   }
 }
